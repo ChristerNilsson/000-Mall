@@ -2,21 +2,20 @@
 
 * Kopiera denna mha Clone or Download
 * Välj Download .Zip 
-* Packa upp innehållet och spara i en egen katalog med namnet Mall
-* Kopiera katalogen Mall varje gång du startar ett nytt projekt.
+* Packa upp innehållet och spara i en egen katalog med namnet 000-Mall. Dvs inget -master
+* Flytta upp createProject.bat en nivå.
 
 Förklaring
 
 * Libraries innehåller bl a p5-filer.
 * index.html används när man vill köra programmet i Google Chrome.
-* sketch.coffee innehåller din kod. Redigera t ex med Sublime.
-* sketch.js skapas automatiskt av transpile.bat
-* transpile.bat måste du alltid starta. Den översätter .coffee till .js
+* katalogen coffee innehåller din kod. Redigera med Sublime.
+* js-filer skapas automatiskt av startProject.bat
 
 Arbetsgång
 
 * Använda createProject för att skapa en kopia av mallen.
-* Ändra namn på NewProject
+* Bytt namn på NewProject
 * Gå in i katalogen och starta startProject
 * Modifiera titel i index.html. Spara med ctrl-s
 * Ändra i sketch.coffee. Spara med ctrl-S
