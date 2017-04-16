@@ -1,6 +1,8 @@
 setup = ->
-	createCanvas windowWidth,windowHeight
-	bg 0.5
+	createCanvas 400,400
 	
 draw = ->
-	text "x=#{mouseX} y=#{mouseY}", mouseX, mouseY					
+	text "#{mouseX} #{mouseY}", mouseX, mouseY	
+
+mousePressed = ->
+	bg 1				
