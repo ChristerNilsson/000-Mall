@@ -15,9 +15,12 @@ Förklaring
 
 Arbetsgång
 
-* Ändra i sketch.coffee
-* Ctrl-S sparar filen.
-* Transpile kompilerar automatiskt. Ett ljud hörs om du skriver något otillåtet.
+* Använda createProject för att skapa en kopia av mallen.
+* Ändra namn på NewProject
+* Gå in i katalogen och starta startProject
+* Modifiera titel i index.html. Spara med ctrl-s
+* Ändra i sketch.coffee. Spara med ctrl-S
+* Transpile kompilerar automatiskt. Ett pip hörs vid syntaxfel.
 * Refresha Chrome.
 
 Att tänka på
