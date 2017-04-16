@@ -5,4 +5,4 @@ draw = ->
 	text "#{mouseX} #{mouseY}", mouseX, mouseY	
 
 mousePressed = ->
-	bg 1				
+	bg 0.5			
