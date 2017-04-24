@@ -8,7 +8,7 @@
 ## Detta gör du en enda gång
 
 * Kopiera 000-Mall med Clone or Download
-* Välj Download .Zip 
+* Välj Download .Zip
 * Packa upp innehållet och spara i en egen katalog med namnet 000-Mall. Dvs inget -master
 * Flytta upp createProject.bat en nivå.
 
@@ -21,10 +21,12 @@
 
 * Gå in i katalogen och starta startProject
   * index.html startas i Chrome
-  * sublime startas. 
-  	* Stäng eventuellt befintligt projekt med Remove Folder from Project
+  * sublime startas.
+  	* Stäng eventuellt befintligt projekt med högerklick|Remove Folder from Project
+  	* Stäng eventuella befintliga filer med File|Close All Files
   * transpilern startas
-* Ändra i sketch.coffee. Spara med ctrl-S
-* Transpilering sker automatiskt. Ett pip hörs vid syntaxfel.
+* Ändra i sketch.coffee.
+	* Ctrl-s behövs ej om du sätter Preference
+		* "save_on_focus_lost": true
 * Refresha Chrome.
-
+* Transpilering sker automatiskt. Ett pip hörs vid syntaxfel.
