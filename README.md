@@ -2,7 +2,7 @@
 
 * katalogen coffee innehåller din kod. Redigera med Code
 * js-filer skapas automatiskt mha Code extension Run On Save
-* index.html används när man vill köra programmet i Google Chrome.
+* index.html används när man vill köra programmet i Google Chrome
 
 ## Detta gör du en enda gång
 
@@ -32,7 +32,7 @@
 
 ## Detta gör du när du skapar ett nytt projekt
 
-* Gå till ditt eget 000-Mall repo
+* Gå till ditt repo med namnet 000-Mall
 	* Klicka på knappen "Use this template"
 	* Ge repot ett lämpligt namn
 * Kopiera detta nya repo med "Clone or Download" + Copy
@@ -42,6 +42,14 @@
 
 * Gå in i rätt katalog och starta med t ex "code ." eller högerklicka i Explorer
 * Transpilering sker automatiskt. 
-	* Syntaxfel kan ses mha View|Output|Run On Save
+	* Syntaxfel kan ses mha View | Output | Run On Save
 * Visa både Code och Chrome samtidigt på skärmen.
 * Använd F12 för att se Debuggern.
+
+## Hantering av Github
+
+* Klicka på ikonen för Source Control (Ctrl+Shift+G)
+* Inspektera dina ändringar genom att klicka på en fil
+* Beskriv vad du gjort
+* Ctrl+Enter (Sparar dina ändringar lokalt i .git)
+* ... | Push (Skickar upp dina ändringar till Github)
