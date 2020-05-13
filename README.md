@@ -53,3 +53,4 @@
 * Beskriv vad du gjort
 * Ctrl+Enter (Sparar dina ändringar lokalt i .git)
 * ... | Push (Skickar upp dina ändringar till Github)
+	* Push behöver bara göras när du vill publicera dina ändringar
