@@ -9,6 +9,7 @@
 * Ladda ner Visual Studio Code
 	* Installera Extension Live Server
 	* Installera Extension Live Share
+	* Installera Extension Browser Preview
 	* Installera Extension Run On Save
 		* Klicka på Manage (kugghjulet)
 		* Extension Settings
